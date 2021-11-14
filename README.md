@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezxd&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ezxd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezxd&show_icons=true&theme=onedark&locale=en" alt="ezxd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezxd&show_icons=true&theme=onedark&locale=en&count_private=true" alt="ezxd" /></p>
