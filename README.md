@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **admin@ezxd.cloud**
 
+- 📚 I’m currently taking a look at Flutter and Dart
+
 <p align="left">
 </p>
 
